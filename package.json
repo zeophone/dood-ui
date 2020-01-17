@@ -1,0 +1,30 @@
+{
+  "name": "dood",
+  "version": "1.0.0",
+  "description": "简洁功能性H5模板",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "build": "webpack",
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeophone/dood-ui.git"
+  },
+  "keywords": [
+    "织梦模板",
+    "H5模板"
+  ],
+  "author": "zoubin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zeophone/dood-ui/issues"
+  },
+  "homepage": "https://github.com/zeophone/dood-ui#readme",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.10.1"
+  }
+}
