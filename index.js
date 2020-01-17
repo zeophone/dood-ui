@@ -11,6 +11,7 @@ var swiper1 = new Swiper('#tools',{
         },
       }
 });
+
 for (let i = 0; i < navs.length; i++) {
     navs[i].addEventListener('click',function (e) {
         swiper1.slideTo(i);
